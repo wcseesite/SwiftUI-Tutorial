@@ -1,6 +1,6 @@
 # SwiftUI Tutorial
 
-This is a note repository for studying iOS development with SwiftUI.
+This is a note repository for studying iOS App development with SwiftUI.
 
 
 # Apple Official Study Materials
